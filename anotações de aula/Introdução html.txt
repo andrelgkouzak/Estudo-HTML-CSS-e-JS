@@ -1,11 +1,7 @@
 elementos html
-
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta>
-		<title></title>
-	</head>
-	<body>
-	</body>
-</html>
+<section> Seção genérica
+<header> cabeçalho
+<article> conteúdo relevante
+<aside> relacionado ao conteúdo principal
+<footer> rodapé
+<h1 até h6> títulos
